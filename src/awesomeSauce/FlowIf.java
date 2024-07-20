@@ -11,6 +11,7 @@ public class FlowIf {
 		if(testNumber > 6) {
 			System.out.println("Greater than six");
 		}
+		System.out.println("This will print no matter what.");
 	}
 
 }
